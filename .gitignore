@@ -1,0 +1,17 @@
+# Исключаем исполняемые файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Сборка Go
+bin/
+pkg/
+*.test
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
