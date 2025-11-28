@@ -1,6 +1,4 @@
-# my-transaction-tracker
-
-Калькулятор транзакций
+# Калькулятор транзакций
 
 Простая консольная программа на Go, которая:
 - Собирает транзакции (до ввода `n`)
@@ -18,10 +16,4 @@
 -5.50
 Баланс: 4.50
 
-Нажмите Enter, чтобы выйти...# my-transaction-tracker
-# bmi-transactions
-# bmi-transactions
-# bmi-transactions
-# transaction-tracker
-# bmi-transactions
-# bmi-transactions
+Нажмите Enter, чтобы выйти...
